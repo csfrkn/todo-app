@@ -84,7 +84,7 @@ npm run dev
 
 ## Kullanım
 
-1. Tarayıcınızda `http://localhost:3000` adresine gidin
+1. Tarayıcınızda `http://localhost:8000` adresine gidin (Laravel development server varsayılan portu)
 2. Yeni görev eklemek için "Yeni Görev Ekle" butonuna tıklayın
 3. Görevleri filtrelemek için arama kutusunu ve filtreleri kullanın
 4. Görevleri düzenlemek veya silmek için ilgili görev kartı üzerindeki butonları kullanın
